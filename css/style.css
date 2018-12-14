@@ -637,17 +637,18 @@ Roboto, sans-serif;
    overflow: auto;
 }
 .boxcontent{
-    width: 50%;
+    width: 40%;
     float:left;
+    margin-left:50px;
 }
 .boxcontent h1{
     color:#e64b77;
-    text-align: left;
+    text-align:left; 
     font-family: roboto,sans-serif;
     font-size: 22px;
     font-weight:bolder;
     line-height: 26px;
-    margin: 40px  0 0 100px;
+    margin-top: 40px
 }
 
 .boxcontent p{
