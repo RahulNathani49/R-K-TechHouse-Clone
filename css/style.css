@@ -136,7 +136,7 @@ body {
     background-color: #ffffff;
     padding-top: 5px;
     float: right;
-    width: calc(100% - 324px);
+    width: calc(100% - 30%);
 }
 
 .again {
@@ -276,7 +276,7 @@ font-family: 'Roboto', sans-serif;
     height: 120px;
     background-color: #e74c78;
     margin: -5px 0 0 323px;
-
+   
 }
 
 .loadmore a {
@@ -286,7 +286,7 @@ font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: black;
     font-weight: bolder;
-    padding-top: 20px;
+   
 
 }
 
