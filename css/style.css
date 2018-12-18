@@ -276,14 +276,13 @@ font-family: 'Roboto', sans-serif;
 }
 
 .loadmore {
-    width: 40%;
-    height: 120px;
-    background-color: #e74c78;
-   
-    float: right;
+    width: 50%;
+    height: 100px;
+    background-color: #e74c78;  
+    margin:-5px 0 0 377px;
+    
    
 }
-
 .loadmore a {
     font-family: verdana;
     font-size: 24px;
@@ -291,8 +290,7 @@ font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: black;
     font-weight: bolder;
-   
-
+    line-height: 40px;
 }
 
 .loadmore img {
