@@ -244,7 +244,7 @@ font-family: 'Roboto', sans-serif;
 .pic2 img {
     height: 380px;
     background-color: aqua;
-    width: 378px;
+    width: 100%;
 
 }
 
@@ -257,7 +257,7 @@ font-family: 'Roboto', sans-serif;
 
 .pic3 img {
     height: 380px;
-    width:377px;
+    width:100%;
     background-color: red;
 
 }
