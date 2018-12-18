@@ -229,19 +229,19 @@ font-family: 'Roboto', sans-serif;
     word-spacing: 0px;
     font-weight: 700;
 }
-
-.pic1 img {
+.portfolio-left-box{
     width: 70%;
+}
+.pic1{
+    clear:both;
+}
+.pic1 img {
+    width: 100%;
     height: 450px;
     background-color: black;
 }
 
-.pic1 {
-    clear: right;
-}
-
 .pic2 img {
-    width: 100%;
     height: 380px;
     background-color: aqua;
 
@@ -253,8 +253,8 @@ font-family: 'Roboto', sans-serif;
 }
 
 .pic3 img {
-    width: 88.8%;
     height: 380px;
+    width: 375px;
     background-color: red;
 
 }
@@ -265,7 +265,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 .pic4 img {
-    width: 70%;
+    width: 100%;
     height: 450px;
     background-color: black;
     margin-top: -5px;
@@ -275,7 +275,8 @@ font-family: 'Roboto', sans-serif;
     width: 40%;
     height: 120px;
     background-color: #e74c78;
-    margin: -5px 0 0 323px;
+   
+    float: right;
    
 }
 
