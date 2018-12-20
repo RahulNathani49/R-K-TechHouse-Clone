@@ -109,22 +109,22 @@ body {
 
 .service-left-box span {
     color: #55b286;
-    font-size: 90px;
+    font-size: 120px;
     margin-left: -25px;
     letter-spacing: -5px;
     line-height: 100px;
     vertical-align: baseline;
     font-family:
         Montserrat;
-    font-weight: 700;
+    font-weight: 700; 
 }
 
 .service-left-box h2 {
  font-family: sans-serif;
-    font-size: 80px;
-    margin-left: 120px;
+    font-size: 100px;
+    margin-left: 100px;
     word-break: break-all;
-    line-height: 66px;
+    line-height:80px;
     color: white;
     vertical-align: baseline;
     letter-spacing: 2px;
@@ -145,9 +145,9 @@ body {
 }
 
 .service-right-box img {
-    height: 80px;
-    width: 80px;
-    margin-left: 150px;
+    height: 60px;
+    width: 60px;
+    margin:20px 0 0 150px;
 }
 
 .service-right-box h1 {
@@ -188,12 +188,13 @@ font-family: 'Roboto', sans-serif;
     background-image: url(../images/photon.jpg);
     background-size: cover;
     background-position: top center;
-    background-attachment: fixed;
+    height: 255%;
 }
 
 .portfolio-block {
     width: 80%;
     margin: auto;
+    
 }
 
 .portfolio-right-box {
@@ -219,10 +220,10 @@ font-family: 'Roboto', sans-serif;
 
 .portfolio-right-box h1 {
  font-family: sans-serif;
-    font-size: 80px;
-    margin:90px 0 0 120px;
+    font-size: 90px;
+    margin:80px 0 0 120px;
     word-break: break-all;
-    line-height: 66px;
+    line-height: 80px;
     color: white;
     vertical-align: baseline;
     letter-spacing: -1px;
@@ -230,14 +231,14 @@ font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
 .portfolio-left-box{
-    width: 70%;
+    width: 70%;  
 }
 .pic1{
     clear:both;
 }
 .pic1 img {
     width: 100%;
-    height: 450px;
+    height: 455px;
     background-color: black;
 }
 
@@ -277,9 +278,11 @@ font-family: 'Roboto', sans-serif;
 
 .loadmore {
     width: 57%;
-    height: 100px;
+    height: 106px;
     background-color: #e74c78;  
-    margin:-5px 0 0 325px;
+    float: right;
+    margin-top: -5px;
+    
     
    
 }
@@ -336,10 +339,10 @@ font-family: 'Roboto', sans-serif;
 
 .crafters-left-box h1 {
     font-family: sans-serif;
-    font-size: 80px;
-    margin-left: 120px;
+    font-size: 100px;
+    margin-left: 100px;
     word-break: break-all;
-    line-height: 66px;
+    line-height: 80px;
     color: white;
     vertical-align: baseline;
     letter-spacing: -1px;
@@ -375,7 +378,7 @@ font-family: 'Roboto', sans-serif;
 
 .support {
     width: 200px;
-    margin-left: 100px;
+    margin-left: 200px;
 }
 
 .about h1 {
@@ -411,12 +414,12 @@ Roboto, sans-serif;
 
 .employement {
     width: 200px;
-    margin-left: 300px;
+    margin-left: 200px;
 }
 
 .discover {
     width: 200px;
-    margin-left: 400px;
+    margin-left: 200px;
 }
 
 .container img {
@@ -497,10 +500,10 @@ Roboto, sans-serif;
 }
 .projectright h1{
        font-family: sans-serif;
-    font-size: 80px;
-    margin:100px 0 0 120px;
+    font-size: 100px;
+    margin:100px 0 0 80px;
     word-break: break-all;
-    line-height: 66px;
+    line-height: 80px;
     color: white;
     vertical-align: baseline;
     letter-spacing: 3px;
@@ -623,10 +626,10 @@ Roboto, sans-serif;
 }
 .contactleft h1{
        font-family: sans-serif;
-    font-size: 80px;
-    margin:100px 0 0 120px;
+    font-size: 100px;
+    margin:100px 0 0 90px;
     word-break: break-all;
-    line-height: 66px;
+    line-height: 80px;
     color: white;
     vertical-align: baseline;
     letter-spacing: 3px;
